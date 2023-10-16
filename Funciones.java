@@ -59,7 +59,7 @@ public class Funciones
     static int leerEntero()
     {
        
-        //llamada a la funcion imprimmirMensaje
+        //llamada a la funcion imprimirMensaje
         imprimirMensaje("Teclea un entero");
         
         //definir un objeto del tipo scanner
