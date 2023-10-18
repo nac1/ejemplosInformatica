@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Calendario
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Calendario\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=mes
+comment2.target=java.lang.String\ darMes(int)
+comment3.params=text
+comment3.target=int\ leerNumero(java.lang.String)
+comment4.params=a\u00F1o
+comment4.target=boolean\ esBisiesto(int)
+comment5.params=mes\ a\u00F1o
+comment5.target=int\ diasDelMes(int,\ int)
+comment6.params=a\u00F1o
+comment6.target=int\ diasDelA\u00F1o(int)
+comment7.params=a\u00F1o\ mes\ dia
+comment7.target=int\ calcularDias(int,\ int,\ int)
+comment8.params=diaSem\ mes\ a\u00F1o
+comment8.target=void\ mostrarCalendario(int,\ int,\ int)
+numComments=9
