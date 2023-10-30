@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Vectores
+comment0.text=\r\n\ Programa\ para\ calcular\ la\ suma\ de\ los\ elementos\ de\ un\ vector.\r\n\ \r\n\ @author\ clase\ de\ Inform\u00E1tica\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int[]\ crear()
+comment2.text=\r\n\ Crea\ un\ vector\ entero,\ pidiendo\ el\ tama\u00F1o\ al\ usuario\ desde\ teclado\r\n\ @param\ me\r\n\ @return\ Un\ vector\ de\ tama\u00F1o\ definido\ por\ el\ usuario\r\n
+comment3.params=vector
+comment3.target=int[]\ pedirDatos(int[])
+comment3.text=\r\n\ Crea\ asigna\ valores\ leidos\ desde\ teclado\ a\ un\ vector\ de\ tama\u00F1o\ estatico\r\n\ @param\ me\r\n\ @return\ Un\ vector\ con\ numeros\ enteros\r\n
+comment4.params=A
+comment4.target=int\ loop(int[])
+comment4.text=\r\n\ La\ sumatoria\ de\ los\ componentes\ de\ un\ vector\ entero\r\n\ @param\ Un\ arreglo\ con\ cun\ n\u00FAmero\ de\ componentes.\r\n\ @return\ la\ suma\ de\ los\ compoenentes\ deun\ vecto\r\n
+numComments=5

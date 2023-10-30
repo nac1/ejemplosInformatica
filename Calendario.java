@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Programa para generar elc alendario.
+ * Programa para generar el calendario.
  * 
  * @author clase de Informática 
  * @version (a version number or a date)
