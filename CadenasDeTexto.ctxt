@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CadenasDeTexto
+comment0.text=\r\n\ Programa\ donde\ seprueban\ algunos\ m\u00E9todos\ de\ la\ clase\ \ cadena\ "String".\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ \r\n\ http\://dit.upm.es/~pepe/libros/vademecum/index.html?n\=373.html\r\n\ https\://docs.oracle.com/javase/8/docs/api/java/lang/String.html\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
