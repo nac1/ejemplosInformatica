@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LeerPedidos
+comment0.text=\r\n\ Problema\ de\ pedidos.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=pedido
+comment2.target=int\ contarCodigos(Pedido[])
+comment3.params=c\ pedido
+comment3.target=void\ SumarCantidad(Codigo[],\ Pedido[])
+comment4.params=c
+comment4.target=void\ EncontrarMayorCantidad(Codigo[])
+numComments=5
